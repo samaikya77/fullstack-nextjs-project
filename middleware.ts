@@ -9,4 +9,4 @@ export const config = { matcher:
 '/(api|trpc)(.*)', 
 ], 
 };
-export const runtime = 'nodejs'; 
+ 
